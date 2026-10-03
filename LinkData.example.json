@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 8,
+  "areas": [{ "id": "default", "name": "Allgemein" }],
+  "activeAreaId": "default",
+  "groupAreas": {},
+  "categories": [],
+  "links": [],
+  "groupOrder": [],
+  "containerOrder": [],
+  "widgets": [],
+  "settings": {
+    "titlebarPosition": "bottom",
+    "menuItemTextColor": "#dfdfe1",
+    "menuItemFontSize": 13,
+    "systemServiceUrl": "http://127.0.0.1:8765"
+  }
+}

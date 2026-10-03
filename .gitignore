@@ -1,0 +1,9 @@
+node_modules/
+LinkData.json
+LinkData[0-9]*.json
+linkman-data.json
+LinkMan-Backups/
+.LinkData-*.tmp
+settings-*.png
+.env
+.env.*
